@@ -9,3 +9,6 @@ This project is a tampermonkey script to convert chatgpt session to markdown lan
 
 3, Refresh chatgpt website, you will see a button on the top right corner. Click the button will convert the current dialog to markdown language and send to click board.
 ![chatgpt GUI](readme_config3.png)
+
+
+Here is an [example](https://github.com/crazyyao0/ChatGPT2Markdown/blob/main/examples/examples1.md)
